@@ -16,6 +16,24 @@
       "message": "This should say decommonized if you need to override it for some devices",
       "revId": "c79f8a4aca8dabcb1eb1512179f0939b4b87acae",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d85993c8_6bb6223a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26777
+      },
+      "writtenOn": "2024-04-07T14:37:43Z",
+      "side": 1,
+      "message": "Technically this device was released way after the bulk of the ones meant to use this tree in the first place from the looks of it. And I don\u0027t see a problem trying to override it later down the tree, it will convey the message that the device has volume rockers on the right to other devs.\n\nBut do you mean \"stay\"?",
+      "parentUuid": "ad0510b0_82e1f1ef",
+      "revId": "c79f8a4aca8dabcb1eb1512179f0939b4b87acae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
