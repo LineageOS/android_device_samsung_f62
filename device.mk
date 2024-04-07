@@ -32,7 +32,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/init/init.m62.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.m62.rc
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay \
+    $(LOCAL_PATH)/overlay-lineage
 
 PRODUCT_PACKAGES += \
     SettingsProviderOverlayM62
