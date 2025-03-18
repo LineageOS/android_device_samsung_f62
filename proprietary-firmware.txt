@@ -1,27 +1,27 @@
 # Firmware for model SM-E625F - from Samsung package version E625FDDS6CXE2
 
-cm.bin_SM-E625F
-dqmdbg.img_SM-E625F
-keystorage.bin_SM-E625F
-modem.bin_SM-E625F
-modem_debug.bin_SM-E625F
-sboot.bin_SM-E625F
-uh.bin_SM-E625F
-up_param.bin_SM-E625F
+cm.bin_SM-E625F|80c5bcb58e08478d88988f49b860696476555b50
+dqmdbg.img_SM-E625F|6adaed2c7fe7fc086e0df348704761a3cfe416a8
+keystorage.bin_SM-E625F|90ce53e313759a878ac4e2597b6d9f87f7d809f6
+modem.bin_SM-E625F|2953d5578cebcb05f705428bb185728f462b3bc7
+modem_debug.bin_SM-E625F|e74dca3f3e81ab654206b9f40bbabbcfe1da9404
+sboot.bin_SM-E625F|d2cca4f53878555056e81961b0a15b8fbbb39fb0
+uh.bin_SM-E625F|af3db351fc348867d0f7a82328fdbfddac84a4ea
+up_param.bin_SM-E625F|77dda949dca78b5af5e719faa9b03a8d5bdd99b5
 
 # Firmware for model SM-M625F - from Samsung package version M625FXXS6CXE3
 
-cm.bin_SM-M625F
-dqmdbg.img_SM-M625F
-keystorage.bin_SM-M625F
-modem.bin_SM-M625F
-modem_debug.bin_SM-M625F
-sboot.bin_SM-M625F
-uh.bin_SM-M625F
-up_param.bin_SM-M625F
+cm.bin_SM-M625F|52188f56d21afed69538f7547c977a28c7b11938
+dqmdbg.img_SM-M625F|6ea417ec4f7fb2e6ed7d18c4b9a37a2708afacc7
+keystorage.bin_SM-M625F|d5a47c36ad7ebdc9c089d15cdb8de58b2623a820
+modem.bin_SM-M625F|d067ac2610687f0dc5f047586f14d6c4c280dac9
+modem_debug.bin_SM-M625F|c7f566985e1d1ae1b56b0c1f23efbd47fd4157c1
+sboot.bin_SM-M625F|501302f425675a22eda9d6ec90ba2afe3ca8ab89
+uh.bin_SM-M625F|e03a77d55d5427935311403a8182455ff2f7b368
+up_param.bin_SM-M625F|bca35e5d6fd6cc93d7298b05c6e1dec35311decc
 
 # File containing the supported models, one per line
-models
+models|7a88be8b138bbefc5b015fac6c86cf301c7ce9f1
 # Files containing Samsung package version for supported models
-version_SM-E625F
-version_SM-M625F
+version_SM-E625F|d77fbc2f09b75b260c9a020e0043ea3ccafe2f55
+version_SM-M625F|b0d62e052fb4871dce5933ae598f8eda62f78dbe
