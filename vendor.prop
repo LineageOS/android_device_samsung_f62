@@ -3,7 +3,7 @@ bluetooth.device.default_name=Galaxy F62
 
 ## Fingerprint
 ro.vendor.fingerprint.type=side
-ro.vendor.fingerprint.sensor_location=1080|800|350
+ro.vendor.fingerprint.sensor_location=1080|800|350|local:4633128672291735937
 ro.vendor.fingerprint.supports_gestures=true
 
 ## Vibrator HAL
