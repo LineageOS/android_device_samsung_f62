@@ -31,4 +31,4 @@ TARGET_KERNEL_CONFIG := exynos9820-f62_defconfig
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 ## Vibrator
-$(call soong_config_set,samsungVibratorVars,duration_amplitude,true)
+$(call soong_config_set_bool,samsungVibratorVars,duration_amplitude,true)
