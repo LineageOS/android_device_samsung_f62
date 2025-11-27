@@ -80,7 +80,6 @@ vendor/lib64/vendor.samsung.hardware.gnss@2.1.so
 vendor/lib64/hw/vendor.samsung.hardware.gnss@2.1-impl.so
 
 ## NFC
-vendor/etc/libnfc-sec-vendor.conf
 vendor/firmware/nfc/sec_s3nrn4v_firmware.bin
 
 ## RIL
